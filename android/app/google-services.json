@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "120120911478",
+    "firebase_url": "https://animigo-b899d-default-rtdb.firebaseio.com",
+    "project_id": "animigo-b899d",
+    "storage_bucket": "animigo-b899d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120120911478:android:05df6dac1cdd0a89c4e157",
+        "android_client_info": {
+          "package_name": "com.rk.Animigo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120120911478-8c6i52heqeqq9lo1aoc23borl1nbdcp4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rk.Animigo",
+            "certificate_hash": "db3732b50609854e0a840c35a8b8440e8140e45d"
+          }
+        },
+        {
+          "client_id": "120120911478-b03ai41i3hr563qb4bb24rhk1oaaunl0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rk.Animigo",
+            "certificate_hash": "0f69331408e403cece6a1c4b6971c6d127433b96"
+          }
+        },
+        {
+          "client_id": "120120911478-j8vbv0i68qkth1j644e03rhvfj19h6ab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6b7UnBD3t7iSuX6_HJQsWj-xhrFoSeFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120120911478-j8vbv0i68qkth1j644e03rhvfj19h6ab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
